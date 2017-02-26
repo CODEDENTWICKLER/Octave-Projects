@@ -6,7 +6,7 @@ Clone this Repo to Local file named Octave-Projects
 Use the command on git bash or terminal
 
 ```
-git clone 
+git clone 'https://github.com/CODEDENTWICKLER/Octave-Projects.git'
 ```
 
 ### Prerequisites
