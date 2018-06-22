@@ -6,7 +6,7 @@ Clone this Repo to Local file named Octave-Projects
 Use the command on git bash or terminal
 
 ```
-git clone 'https://github.com/CODEDENTWICKLER/Octave-Projects.git'
+git clone 'https://github.com/codedentwickler/Octave-Projects.git'
 ```
 
 ### Prerequisites
@@ -25,20 +25,20 @@ This Project include implementations of Simple and Complex Algorithms
 
 Basic Implementation Of more precise Infinite Series Expansion Of some functions like
 
-The Exponential Function
-The Sine, Cos, Tan, Cosh,Cosec,Sec, Sech, Tanh, Cosech, ...
+ - The Exponential Function
+ - The Sine, Cos, Tan, Cosh,Cosec,Sec, Sech, Tanh, Cosech, ...
 
-Computing Machine Gamma and Epsilon
+ - Computing Machine Gamma and Epsilon
 
-Fixed Point and Two - Point Method like
-The Bisection Method
-Newton Ralphson Method
-Regula Falsi
+ - Fixed Point and Two - Point Method like
+ - The Bisection Method
+ - Newton Ralphson Method
+ - Regula Falsi
 
-Canonical Form Of Polynomial and Horners Form Implemtation
+ - Canonical Form Of Polynomial and Horners Form Implemtation
 
-Interpolation Tehniques like
-The Lagrangian Interpolation
-Newton Forward Divided Method and others to be updated soon
+ - Interpolation Tehniques like
+ - The Lagrangian Interpolation
+ - Newton Forward Divided Method and others to be updated soon
 
-Numerical Integration and Differentiation
+ - Numerical Integration and Differentiation
